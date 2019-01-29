@@ -22,6 +22,7 @@ public class BuildManager : MonoBehaviour
     public GameObject anotherTurretPrefab;
 
     private GameObject turretToBuild;
+
     public GameObject GetTurretToBuild()
     {
         return turretToBuild;
